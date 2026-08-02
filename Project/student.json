@@ -1,0 +1,9 @@
+{
+    "name": "Kishan",
+    "age": 16,
+    "grade": "10",
+    "marks": {
+        "math": 85,
+        "science": 90
+    }
+}
