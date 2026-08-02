@@ -1,29 +1,37 @@
-# Simple Project: Python Practice & Reference Repository
+<div align="center">
 
-A structured collection of Python scripts, exercises, and mini-projects spanning fundamental programming concepts, object-oriented programming (OOP), file handling, database operations, and utility tools.
+# 🐍 Simple Project: Python Practice & Reference Repository
+
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge)](https://github.com/KISHANSHRESTHA010/SIMPLE-PROJECT)
+
+*A comprehensive collection of Python scripts, exercises, and mini-projects spanning fundamental programming concepts, object-oriented design, file handling, database operations, and utility tools.*
+
+</div>
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```text
 SIMPLE PROJECT/
-├── 📁 controllstastement/   # Control flow exercises (if-else, loops, conditional statements)
-├── 📁 Extra/               # Miscellaneous utilities and practice scripts
-├── 📁 file handiling/       # File I/O operations (read, write, append, parsing)
-├── 📁 function/            # Modular code examples, parameters, return types, and lambda functions
-├── 📁 input_Output/        # Standard user input and output formatting exercises
-├── 📁 module 1/            # Standard library imports and custom module structures
-├── 📁 OOP/                 # Object-Oriented Programming (Classes, Inheritance, Encapsulation)
-├── 📁 Operators/           # Arithmetic, logical, bitwise, and comparison operator practices
-├── 📁 sqlite/              # Database operations, queries, and SQLite integration
-├── 📄 ytdownload.py        # Script for downloading YouTube videos/audio
-├── 📄 destination.txt      # Text processing / I/O demo file
-├── 📄 log.txt              # Logging output / sample file
-├── 📄 sample.txt           # General reference text file
-├── 📄 student.json         # JSON data handling demonstration
-├── 📄 student.txt          # Plain text student record file
-└── 📄 README.md            # Project documentation
+├── 📁 controllstastement/   # Control flow exercises (if-else, loops)
+├── 📁 Extra/               # Miscellaneous scripts & tools
+├── 📁 file handiling/       # File I/O operations (read, write, append)
+├── 📁 function/            # Functions, recursion, and lambda examples
+├── 📁 input_Output/        # I/O formatting & user inputs
+├── 📁 module 1/            # Module management & standard libraries
+├── 📁 OOP/                 # Classes, inheritance, encapsulation
+├── 📁 Operators/           # Arithmetic, bitwise, & logical operations
+├── 📁 sqlite/              # Database queries & SQLite integration
+├── 📜 ytdownload.py        # YouTube video/audio downloader script
+├── 📄 destination.txt      # Text processing demo output
+├── 📄 log.txt              # Logging output sample
+├── 📄 sample.txt           # Reference text file
+├── 📋 student.json         # JSON structured data store
+├── 📄 student.txt          # Raw text data store
+└── 📘 README.md            # Project documentation
 
 🚀 Topics Covered
 1. Fundamentals & Control Flow
